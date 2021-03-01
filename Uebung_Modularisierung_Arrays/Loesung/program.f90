@@ -2,6 +2,7 @@ program ModulesAndArrays
 
     use LinearAlgebra
 
+    implicit none
     real, dimension(3, 4) :: points
     real, dimension(4, 4) :: homogCoords
     real, dimension(4, 4) :: matrix
