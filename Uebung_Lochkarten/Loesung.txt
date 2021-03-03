@@ -1,0 +1,4 @@
+
+Auf der Lochkarte steht 
+
+ ==> PRINT*,*"Hello FORTRAN"
